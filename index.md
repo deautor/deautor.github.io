@@ -1,3 +1,9 @@
+---
+title: /
+layout: home
+permalink: /
+---
+
 -- Ofensywna Strona Programowania -- po godzinach --
 - Ponieważ najlepszą obroną jest skuteczna ofensywa.
 
