@@ -2,7 +2,7 @@
 
 Wirusy komputerowe stanowią zagrożenie dla dzisiejszych systemów informatycznych. Są to złośliwe programy, które potrafią infekować komputery i urządzenia, a następnie wykonywać szkodliwe działania. Dla zrozumienia, jak wirusy te działają i jak można się przed nimi chronić, warto poznać ich "anatomię". Porównanie wirusów komputerowych do wirusów biologicznych jest często używane, aby zrozumieć, jak są przesyłane, infekują nowe "gospodarze", i jakie mogą mieć skutki. W naszym wyjaśnieniu anatomi wirus komputerowego, omówimy strukturę, mechanizmy rozprzestrzeniania się i działania tych złośliwych programów. Zrozumienie tej anatomi pozwala na skuteczniejsze zwalczanie i ochronę przed infekcjami, co staje się coraz ważniejsze w erze zwiększonej złożoności technologii informatycznych.
 
-    Podstawower elementy oprogramowania zlosliwego:
+Podstawower elementy oprogramowania zlosliwego:
 
     Payload
 
