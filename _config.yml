@@ -6,4 +6,4 @@ author:
 description: "Ofensywna strona programowania"
 
 # Build settings
-remote_theme: b2a3e8/jekyll-theme-console
+remote_theme: deautor/theme-console
