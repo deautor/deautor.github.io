@@ -4,11 +4,11 @@ Wirusy komputerowe stanowią zagrożenie dla dzisiejszych systemów informatyczn
 
 - Podstawower elementy oprogramowania zlosliwego:
 
-- Payload
-- Vector
-- Procedura
+>> Payload
+>> Vector
+>> Procedura
 
-- Opis:
+-- Opis --
 
 ./Payload
 
