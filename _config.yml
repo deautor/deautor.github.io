@@ -1,0 +1,9 @@
+# Site settings
+title: Po godzinach
+author:
+  name: the author
+  email: deautor77@gmail.com
+description: "Ofensywna strona programowania"
+
+# Build settings
+remote_theme: b2a3e8/jekyll-theme-console
