@@ -21,13 +21,13 @@ Nasza misja polega na dostarczaniu najnowszych, kompleksowych informacji dotycz�
 
 Tu najdziesz artykuły dotyczące różnych aspektów cyberbezpieczeństwa, takie jak:
 
-    Analiza ataków: Dowiesz się, jak odkrywać i analizować podatności komputerowe przy użyciu inżynierii wstecznej.
+-Analiza ataków: Dowiesz się, jak odkrywać i analizować podatności komputerowe przy użyciu inżynierii wstecznej.
 
-    Ochrona danych: Poznasz strategie, które pomogą Ci chronić cenne informacje przed utratą lub kradzieżą.
+-Ochrona danych: Poznasz strategie, które pomogą Ci chronić cenne informacje przed utratą lub kradzieżą.
 
-    Bezpieczeństwo sieciowe: Zrozumiesz, jak zabezpieczyć swoją sieć przed intruzami i atakami.
+-Bezpieczeństwo sieciowe: Zrozumiesz, jak zabezpieczyć swoją sieć przed intruzami i atakami.
 
-    Świadomość zagrożeń: Dowiesz się, jak identyfikować potencjalne zagrożenia i skutecznie na nie reagować.
+-Świadomość zagrożeń: Dowiesz się, jak identyfikować potencjalne zagrożenia i skutecznie na nie reagować.
 
 Niezależnie od tego, czy jesteś początkującym użytkownikiem komputera, czy doświadczonym profesjonalistą, znajdziesz  wartościowe informacje, które pomogą Ci zgłębić ten temat.
 
