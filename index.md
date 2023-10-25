@@ -7,7 +7,7 @@ permalink: /
 -- Ofensywna Strona Programowania -- po godzinach --
 - Ponieważ najlepszą obroną jest skuteczna ofensywa.
 
--- Po godzinach -- Nowa Strona -- Pierwszy wpis : [Anatomia Wirusa](https://github.com/deautor/deautor.github.io/tree/main/anatomia/anatomia.md)
+-- Po godzinach -- Nowa Strona -- Pierwszy wpis : [Anatomia Wirusa](https://github.com/deautor/deautor.github.io/tree/main/anatomia)
 
 ./intro
 
